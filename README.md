@@ -7,3 +7,4 @@ Guide on creating your own LED installation with Raspberry Pi :>
 3. Adjust brightness, LED count, or any parameter to your custom setup
 4. Give bash script permission with "chmod +x script.sh"
 5. Run "./script.sh" and you're good to go! :D
+6. To create your custom visualization, use the TouchDesigner tool (content.toe) to export compatible videos for playback on LED display.
